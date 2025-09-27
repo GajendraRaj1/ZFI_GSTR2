@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for GSTR2'
+define service ZS_GSTR2_DETAILS {
+  expose ZC_GSTR2_DETAILS;
+}
